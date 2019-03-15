@@ -1,0 +1,519 @@
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ApplicationInsights.config
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\HawksStartApp.dll.config
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\HawksStartApp.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\HawksStartApp.pdb
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\csc.exe
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\csc.exe.config
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\csc.rsp
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\csi.exe
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\csi.exe.config
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\csi.rsp
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.AppContext.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Console.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.IO.Compression.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.IO.Pipes.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Security.Claims.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.ValueTuple.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Xml.XPath.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\vbc.exe
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\vbc.exe.config
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\vbc.rsp
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\VBCSCompiler.exe
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Antlr3.Runtime.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\EntityFramework.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\EntityFramework.SqlServer.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.Web.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.ApplicationInsights.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Newtonsoft.Json.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Helpers.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Mvc.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Optimization.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Razor.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.WebPages.Deployment.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.WebPages.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.WebPages.Razor.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\WebGrease.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\EntityFramework.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\EntityFramework.SqlServer.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Helpers.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Mvc.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Optimization.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.Razor.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.WebPages.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.WebPages.Deployment.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Web.WebPages.Razor.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Newtonsoft.Json.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Antlr3.Runtime.pdb
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.AI.Web.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ru\System.Web.Helpers.resources.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ru\System.Web.Mvc.resources.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ru\System.Web.Optimization.resources.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ru\System.Web.Razor.resources.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ru\System.Web.WebPages.resources.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\obj\Debug\HawksStartApp.csproj.CoreCompileInputs.cache
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\obj\Debug\HawksStartApp.csproj.CopyComplete
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\obj\Debug\HawksStartApp.dll
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\obj\Debug\HawksStartApp.pdb
+D:\Універ\EasyHawka\HawksStartApp\HawksStartApp\obj\Debug\HawksStartApp.csprojAssemblyReference.cache
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csprojAssemblyReference.cache
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.CoreCompileInputs.cache
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\obj\Debug\HawksStartApp.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\obj\Debug\HawksStartApp.pdb
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ApplicationInsights.config
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\HawksStartApp.dll.config
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\HawksStartApp.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\HawksStartApp.pdb
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\csc.exe
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\csc.exe.config
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\csc.rsp
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\csi.exe
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\csi.exe.config
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\csi.rsp
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.AppContext.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Console.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.IO.Compression.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.IO.FileSystem.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.IO.Pipes.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Security.AccessControl.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Security.Claims.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.ValueTuple.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Xml.XPath.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\vbc.exe
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\vbc.exe.config
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\vbc.rsp
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\VBCSCompiler.exe
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Antlr3.Runtime.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\EntityFramework.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\EntityFramework.SqlServer.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.Web.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.WindowsServer.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.ApplicationInsights.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Newtonsoft.Json.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Helpers.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Mvc.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Optimization.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Razor.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.WebPages.Deployment.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.WebPages.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.WebPages.Razor.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\WebGrease.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\EntityFramework.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\EntityFramework.SqlServer.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Helpers.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Mvc.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Optimization.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.Razor.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.WebPages.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.WebPages.Deployment.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Web.WebPages.Razor.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Newtonsoft.Json.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Antlr3.Runtime.pdb
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.WindowsServer.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.AI.Web.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ru\System.Web.Helpers.resources.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ru\System.Web.Mvc.resources.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ru\System.Web.Optimization.resources.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ru\System.Web.Razor.resources.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.resources.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.CopyComplete
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\obj\Debug\HawksStartApp.Migrations.CreateCorpusesRestaurantsandCorpuseRestaurant.resources
+F:\Olexij\Easy Hawka\todel\ProjektHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.GenerateResource.cache
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.csprojAssemblyReference.cache
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.Migrations.CreateCorpusesRestaurantsandCorpuseRestaurant.resources
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.csproj.GenerateResource.cache
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.csproj.CoreCompileInputs.cache
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.pdb
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ApplicationInsights.config
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\HawksStartApp.dll.config
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\HawksStartApp.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\HawksStartApp.pdb
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\csc.exe
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\csc.exe.config
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\csc.rsp
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\csi.exe
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\csi.exe.config
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\csi.rsp
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.AppContext.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Console.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.IO.Compression.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.IO.FileSystem.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.IO.Pipes.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Security.AccessControl.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Security.Claims.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.ValueTuple.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Xml.XPath.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\vbc.exe
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\vbc.exe.config
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\vbc.rsp
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\VBCSCompiler.exe
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Antlr3.Runtime.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\EntityFramework.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\EntityFramework.SqlServer.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.Web.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.WindowsServer.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.ApplicationInsights.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Newtonsoft.Json.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Helpers.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Mvc.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Optimization.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Razor.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.WebPages.Deployment.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.WebPages.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.WebPages.Razor.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\WebGrease.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\EntityFramework.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\EntityFramework.SqlServer.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Helpers.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Mvc.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Optimization.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.Razor.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.WebPages.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.WebPages.Deployment.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Web.WebPages.Razor.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Newtonsoft.Json.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Antlr3.Runtime.pdb
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.WindowsServer.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.AI.Web.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ru\System.Web.Helpers.resources.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ru\System.Web.Mvc.resources.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ru\System.Web.Optimization.resources.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ru\System.Web.Razor.resources.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ru\System.Web.WebPages.resources.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.csproj.CopyComplete
+F:\Olexij\Easy Hawka\EasyHawka-master\EasyHawka\HawksStartApp\obj\Debug\HawksStartApp.Migrations.AddedAddressToRestaurants.resources
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\HawksStartApp.dll.config
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\HawksStartApp.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\HawksStartApp.pdb
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\WebGrease.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.Migrations.CreateCorpusesRestaurantsandCorpuseRestaurant.resources
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.CopyComplete
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.dll
+C:\Users\ACER\Desktop\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.pdb
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\HawksStartApp.dll.config
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\HawksStartApp.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\HawksStartApp.pdb
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\WebGrease.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.Migrations.CreateCorpusesRestaurantsandCorpuseRestaurant.resources
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.CopyComplete
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.dll
+C:\Users\ACER\Desktop\ProjectHS\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.pdb
