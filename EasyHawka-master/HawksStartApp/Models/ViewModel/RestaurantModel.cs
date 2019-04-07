@@ -2,6 +2,6 @@
 {
     public class RestaurantModel
     {
-        public string Name { get; internal set; }
+        public string Name { get; set; }
     }
 }

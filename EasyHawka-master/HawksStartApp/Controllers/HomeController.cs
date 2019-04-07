@@ -15,7 +15,7 @@ namespace HawksStartApp.Controllers
     {
         public ActionResult Index()
         {
-           // FillDB();
+            FillDB();
             return View();
         }
 
@@ -32,14 +32,14 @@ namespace HawksStartApp.Controllers
                 jsonString = sr.ReadToEnd();
             }
 
-            var filtersData = JsonConvert.DeserializeObject<HawkaFilters>(jsonString);
+            HawkaFilters filtersData = JsonConvert.DeserializeObject<HawkaFilters>(jsonString);
 
             List<RestaurantModel> model = new List<RestaurantModel>();
             using (HawkaContext db = new HawkaContext())
             {
                 model = (from rest in db.Restaurants
-                         where rest.Price == filtersData.Price && rest.Specialization == filtersData.Specialization &&
-                           rest.IsWifi == filtersData.IsWIfi && rest.AreSittingPlaces == filtersData.AreSittingPlaces
+                         where rest.Price == filtersData.Price && rest.Specialization == filtersData.Specialization
+                             && rest.IsWifi == filtersData.IsWIfi && rest.AreSittingPlaces == filtersData.AreSittingPlaces
                          orderby rest.Name
                          select new RestaurantModel
                          {
@@ -68,7 +68,7 @@ namespace HawksStartApp.Controllers
 
                 var restaurantRepo = new RestaurantRepository(db);
                 restaurantRepo.Clear();
-                restaurantRepo.Create(new Restaurant { Id = 1, Name = "PizzaHOUSE", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways"});
+                restaurantRepo.Create(new Restaurant { Id = 1, Name = "PizzaHOUSE", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 2, Name = "Chellentano", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "pizzeria" });
                 restaurantRepo.Create(new Restaurant { Id = 3, Name = "Cisar", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 4, Name = "La Creperie", AreSittingPlaces = false, IsWifi = true, Price = "middle", Specialization = "pancakes" });
@@ -160,7 +160,6 @@ namespace HawksStartApp.Controllers
                 restaurantcorpuseRepo.Create(new RestaurantCorpuse { CorpuseId = 4, RestaurantId = 16 });
                 restaurantcorpuseRepo.Create(new RestaurantCorpuse { CorpuseId = 4, RestaurantId = 27 });
 
-                restaurantcorpuseRepo.Create(new RestaurantCorpuse { CorpuseId = 5, RestaurantId = 4 });
                 restaurantcorpuseRepo.Create(new RestaurantCorpuse { CorpuseId = 5, RestaurantId = 4 });
                 restaurantcorpuseRepo.Create(new RestaurantCorpuse { CorpuseId = 5, RestaurantId = 1 });
                 restaurantcorpuseRepo.Create(new RestaurantCorpuse { CorpuseId = 5, RestaurantId = 3 });

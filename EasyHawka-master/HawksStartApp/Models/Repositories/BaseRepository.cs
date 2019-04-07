@@ -10,7 +10,6 @@ namespace HawksStartApp.Models.Repositories
     {
         protected HawkaContext hawkaContext;
         protected DbSet<T> dbSet;
-
         public BaseRepository(HawkaContext hawkaContext)
         {
             this.hawkaContext = hawkaContext;
@@ -27,6 +26,5 @@ namespace HawksStartApp.Models.Repositories
         {
             this.dbSet.RemoveRange(this.dbSet);
         }
-
     }
 }

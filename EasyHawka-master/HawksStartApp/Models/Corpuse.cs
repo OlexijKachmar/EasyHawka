@@ -9,6 +9,7 @@ namespace HawksStartApp.Models
 {
     public class Corpuse
     {
+
         [Key]
         public int Id { get; set; }
 
@@ -18,5 +19,4 @@ namespace HawksStartApp.Models
 
         public ICollection<RestaurantCorpuse> RestaurantCorpuses { get; set; }
     }
-
 }

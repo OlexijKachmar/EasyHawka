@@ -1,1 +1,1 @@
-{"Price":"middle","Specialization":"coffee","IsWIfi":true,"AreSittingPlaces":true}
+{"Price":"middle","Specialization":"differentways","IsWIfi":true,"AreSittingPlaces":true,"CorpusNumber":3}

@@ -10,6 +10,7 @@ namespace HawksStartApp.Models.Repositories
     {
         public RestaurantRepository(HawkaContext hawkaContext) : base(hawkaContext)
         {
+
         }
     }
 }

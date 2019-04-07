@@ -11,20 +11,18 @@ namespace HawksStartApp.Models
 {
     public class HawkaContext : DbContext
     {
-       
         public HawkaContext()
         {
-            Database.SetInitializer(new CreateDatabaseIfNotExists<HawkaContext>());
+            Database.SetInitializer(new DropCreateDatabaseAlways<HawkaContext>());
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<RestaurantCorpuse>().HasKey(rc => new { rc.CorpuseId, rc.RestaurantId });
         }
-           
+
         public DbSet<Corpuse> Corpuses { get; set; }
         public DbSet<Restaurant> Restaurants { get; set; }
         public DbSet<RestaurantCorpuse> RestaurantCorpuses { get; set; }
-
     }
 }

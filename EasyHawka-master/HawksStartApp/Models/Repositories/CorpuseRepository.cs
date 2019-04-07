@@ -10,7 +10,7 @@ namespace HawksStartApp.Models.Repositories
     {
         public CorpuseRepository(HawkaContext hawkaContext) : base(hawkaContext)
         {
-        }       
 
+        }       
     }
 }
