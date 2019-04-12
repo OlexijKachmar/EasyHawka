@@ -3,5 +3,7 @@
     public class RestaurantModel
     {
         public string Name { get; set; }
+
+        public byte[] Image { get; set; }
     }
 }
