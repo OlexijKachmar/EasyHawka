@@ -1,0 +1,25 @@
+﻿@using HawksStartApp.Models.ViewModel
+@model  List<RestaurantModel> 
+@{
+    ViewBag.Title = "Restaurant Results";
+}
+
+<h3>"Restaurants result" </h3>
+<table>
+    <tr>
+        <td><p>№</p></td>
+        <td><p>Name</p></td>
+
+    </tr>
+    @{
+        var i = 0;
+        foreach (var restaurant in Model)
+        {
+            <tr>
+                <td><p>@(++i)</p></td>
+                <td><p>@restaurant.Name</p></td>
+            </tr>
+        }
+    }
+</table>
+
