@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Drawing;
 using System.Linq;
 using System.Web;
 
@@ -28,7 +29,9 @@ namespace HawksStartApp.Models
         public bool AreSittingPlaces { get; set; }
 
         public string Address { get; set; }
-        
+
+        public byte[] Image { get; set; }
+
         public ICollection<RestaurantCorpuse> RestaurantCorpuses { get; set; }
     }
 }

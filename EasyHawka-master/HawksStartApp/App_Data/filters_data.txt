@@ -1,1 +1,1 @@
-{"Price":"middle","Specialization":"differentways","IsWIfi":true,"AreSittingPlaces":true,"CorpusNumber":3}
+{"Price" : "middle", "Specialization" : "kebab" , "IsWIfi" : true , "AreSittingPlaces" : true, "CorpusNumber" : 100}

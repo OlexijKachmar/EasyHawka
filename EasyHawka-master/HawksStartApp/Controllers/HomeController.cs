@@ -8,6 +8,7 @@ using HawksStartApp.Models;
 using HawksStartApp.Models.Repositories;
 using Newtonsoft.Json;
 using HawksStartApp.Models.ViewModel;
+using System.Drawing;
 
 namespace HawksStartApp.Controllers
 {
@@ -19,8 +20,10 @@ namespace HawksStartApp.Controllers
             return View();
         }
 
+
         public ActionResult ShowDummyFiltersResult()
         {
+            
             string fileName = "filters_data.txt";
             string path = Server.MapPath("~/App_Data/") + "\\" + fileName;
 
@@ -43,8 +46,10 @@ namespace HawksStartApp.Controllers
                          orderby rest.Name
                          select new RestaurantModel
                          {
-                             Name = rest.Name
-                         }).ToList();
+                             Name = rest.Name,
+                             Image = rest.Image
+                         }
+                         ).ToList();
 
             }
             return View("RestaurantResults", model);
@@ -68,13 +73,13 @@ namespace HawksStartApp.Controllers
 
                 var restaurantRepo = new RestaurantRepository(db);
                 restaurantRepo.Clear();
-                restaurantRepo.Create(new Restaurant { Id = 1, Name = "PizzaHOUSE", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways" });
+                restaurantRepo.Create(new Restaurant { Id = 1, Name = "PizzaHOUSE", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways"});
                 restaurantRepo.Create(new Restaurant { Id = 2, Name = "Chellentano", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "pizzeria" });
                 restaurantRepo.Create(new Restaurant { Id = 3, Name = "Cisar", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 4, Name = "La Creperie", AreSittingPlaces = false, IsWifi = true, Price = "middle", Specialization = "pancakes" });
                 restaurantRepo.Create(new Restaurant { Id = 5, Name = "FriHouse", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "fastfood" });
-                restaurantRepo.Create(new Restaurant { Id = 6, Name = "KebabChef", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "kebab" });
                 restaurantRepo.Create(new Restaurant { Id = 7, Name = "UrbanCofee", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "coffee" });
+                restaurantRepo.Create(new Restaurant { Id = 6, Name = "KebabChef", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "kebab" }); 
                 restaurantRepo.Create(new Restaurant { Id = 8, Name = "Univer", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "coffee" });
                 restaurantRepo.Create(new Restaurant { Id = 9, Name = "Kormushka", AreSittingPlaces = true, IsWifi = false, Price = "low", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 10, Name = "Fornetti", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "bakery" });

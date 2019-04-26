@@ -1,14 +1,19 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Home";
 }
 
-<div>
-    <h3>"Home page" </h3>
+<head>
+    <title>Easy Hawka</title>
+</head>
+<body>
     <div>
-        <h3> Fancy home page wil be here soon! </h3>
+        <h3>"Home page" </h3>
+        <h1><b>You are Ґєй</b></h1>
+        <div>
+            <h3> Fancy home page wil be here soon! </h3>
+        </div>
+        <div>
+            @Html.ActionLink("Підібрати заклади харчування", "ShowDummyFiltersResult", "Home", new { @class = "" })
+        </div>
     </div>
-    <div>
-        @Html.ActionLink("Підібрати заклади харчування", "ShowDummyFiltersResult", "Home", new { @class = "" })
-    </div>
-</div>
+</body>
