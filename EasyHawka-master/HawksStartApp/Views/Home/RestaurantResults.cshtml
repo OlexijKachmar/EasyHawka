@@ -3,6 +3,9 @@
 @{
     ViewBag.Title = "Restaurant Results";
 }
+
+
+
 <h3>"Restaurants result" </h3>
 <table>
     <tr>
@@ -15,10 +18,7 @@
         {
             <tr>
                 <td><p>@(++i)</p></td>
-                <td><p>@restaurant.Name</p></td>
-
-                <td><p><img src="~/Content/MyImages/KebabChef.jpg" /></p></td>
-
+                <td><p><img src='@Url.Content(restaurant.Image)' /></p></td>
             </tr>
         }
     }

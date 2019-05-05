@@ -750,3 +750,4 @@ D:\Універ\Проект\ToDel\EasyHawka-master\EasyHawka-master\HawksStartA
 D:\Універ\Проект\ToDel\EasyHawka-master\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.pdb
 D:\Універ\Проект\ToDel\EasyHawka-master\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.Migrations.Initial.resources
 D:\Універ\Проект\ToDel\EasyHawka-master\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.csproj.GenerateResource.cache
+D:\Універ\Проект\ToDel\EasyHawka-master\EasyHawka-master\HawksStartApp\obj\Debug\HawksStartApp.Migrations.AddStringPath.resources

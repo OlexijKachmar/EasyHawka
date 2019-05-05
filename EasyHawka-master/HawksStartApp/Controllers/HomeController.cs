@@ -79,7 +79,7 @@ namespace HawksStartApp.Controllers
                 restaurantRepo.Create(new Restaurant { Id = 4, Name = "La Creperie", AreSittingPlaces = false, IsWifi = true, Price = "middle", Specialization = "pancakes" });
                 restaurantRepo.Create(new Restaurant { Id = 5, Name = "FriHouse", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "fastfood" });
                 restaurantRepo.Create(new Restaurant { Id = 7, Name = "UrbanCofee", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "coffee" });
-                restaurantRepo.Create(new Restaurant { Id = 6, Name = "KebabChef", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "kebab" }); 
+                restaurantRepo.Create(new Restaurant { Id = 6, Name = "KebabChef", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "kebab",Image = "~/Content/MyImages/KebabChef.jpg" }); 
                 restaurantRepo.Create(new Restaurant { Id = 8, Name = "Univer", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "coffee" });
                 restaurantRepo.Create(new Restaurant { Id = 9, Name = "Kormushka", AreSittingPlaces = true, IsWifi = false, Price = "low", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 10, Name = "Fornetti", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "bakery" });

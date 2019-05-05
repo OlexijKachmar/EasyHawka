@@ -159,6 +159,10 @@
     <Compile Include="Migrations\201904211446515_Initial.Designer.cs">
       <DependentUpon>201904211446515_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201904260701194_AddStringPath.cs" />
+    <Compile Include="Migrations\201904260701194_AddStringPath.Designer.cs">
+      <DependentUpon>201904260701194_AddStringPath.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Corpuse.cs" />
     <Compile Include="Models\HawkaContext.cs" />
@@ -278,6 +282,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201904211446515_Initial.resx">
       <DependentUpon>201904211446515_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904260701194_AddStringPath.resx">
+      <DependentUpon>201904260701194_AddStringPath.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
