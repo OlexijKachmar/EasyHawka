@@ -16,13 +16,13 @@ namespace HawksStartApp.Models.Repositories
             this.dbSet = hawkaContext.Set<T>();
         }
 
-        public virtual void Create(T item)
+        public void Create(T item)
         {
             this.dbSet.Add(item);
             this.hawkaContext.SaveChanges();
         }
 
-        public void Clear()
+        public  void Clear()
         {
             this.dbSet.RemoveRange(this.dbSet);
         }

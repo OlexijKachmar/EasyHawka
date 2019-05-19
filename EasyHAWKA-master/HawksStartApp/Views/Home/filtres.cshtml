@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+<head>
+    <link href='~/Content/filtres.css' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+
+<body style="background-image: url(../../background.jpg);">
+    <form method="POST" align="center" action="~/Home/ShowDummyFiltersResult">
+        <div align="center">
+            <h2 align="center">Введіть номер корпусу, біля якого ви знаходитеся</h2>
+            <input style="text-align:center" type="text" name="CorpusNumber" size="50" list="corpuses">
+            <datalist id="corpuses">
+                <option value="100">Головний
+                <option value="1">1 корпус
+                <option value="4">4 корпус
+                <option value="5">5 корпус
+                <option value="7">7 корпус
+                <option value="8">8 корпус
+                <option value="20">20 корпус
+                <option value="28">28 корпус
+                <option value="38">38 корпус
+            </datalist>
+            <br>
+            <br>
+            <h2 align="center">Оберіть спеціалізацію закладу</h2>
+            <input type="checkbox" name="Specialization" value="differentways" class="option-input checkbox">не важливо
+            <br>
+            <input type="checkbox" name="Specialization" value="bakery" class="option-input checkbox">будка
+            <br>
+            <input type="checkbox" name="Specialization" value="zapikanki" class="option-input checkbox">запіканки
+            <br>
+            <input type="checkbox" name="Specialization" value="kebab" class="option-input checkbox">кебаб
+            <br>
+            <input type="checkbox" name="Specialization" value="lavash" class="option-input checkbox">лаваш
+            <br>
+            <input type="checkbox" name="Specialization" value="coffee" class="option-input checkbox">кавярня
+            <br>
+            <input type="checkbox" name="Specialization" value="fastfood" class="option-input checkbox">фаст фуд
+            <br>
+            <input type="checkbox" name="Specialization" value="croissants" class="option-input checkbox">круасани
+            <br>
+            <input type="checkbox" name="Specialization" value="pizzeria" class="option-input checkbox">піцерія
+            <br>
+            <input type="checkbox" name="Specialization" value="pancakes" class="option-input checkbox">панкейкс
+            <br>
+            <br>
+            <h2 align="center">Оберіть матеріальний тип, до якого ви належите сьогодні</h2>
+            <input type="radio" name="Price" value="low" class="option-input radio">low
+            <br>
+            <input type="radio" name="Price" value="middle" class="option-input radio">middle
+            <br>
+            <input type="radio" name="Price" value="high" class="option-input radio">high
+            <br>
+            <br>
+            <h2 align="center">Додаткові фільтри</h2>
+            <input type="checkbox" name="IsWIfi" value="true" class="option-input checkbox">isWifi
+            <br>
+            <input type="checkbox" name="AreSittingPlaces" value="true" class="option-input checkbox">areSittingPlaces
+            <br>
+            <br>
+            <input type="submit" value="Підібрати заклади" style="background-color: #ADFF2F" size="100" class="send">)
+        </div>
+    </form>
+</body>

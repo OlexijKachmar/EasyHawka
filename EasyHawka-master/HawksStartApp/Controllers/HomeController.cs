@@ -14,43 +14,39 @@ namespace HawksStartApp.Controllers
 {
     public class HomeController : Controller
     {
+        private static bool was;
         public ActionResult Index()
         {
-            FillDB();
+            if (!was)
+            {
+                FillDB();
+                was = true;
+            }
             return View();
         }
 
-
-        public ActionResult ShowDummyFiltersResult()
+        public ActionResult FillFiltres()
         {
-            
-            string fileName = "filters_data.txt";
-            string path = Server.MapPath("~/App_Data/") + "\\" + fileName;
+            return View("filtres");
+        }
 
-            string jsonString = string.Empty;
-            // Open the text file using a stream reader.
-            using (StreamReader sr = new StreamReader(path))
-            {
-                // Read the stream to a string
-                jsonString = sr.ReadToEnd();
-            }
-
-            HawkaFilters filtersData = JsonConvert.DeserializeObject<HawkaFilters>(jsonString);
-
+        [HttpPost]
+        public ActionResult ShowDummyFiltersResult(HawkaFilters hawkaFilters)
+        {
             List<RestaurantModel> model = new List<RestaurantModel>();
             using (HawkaContext db = new HawkaContext())
             {
                 model = (from rest in db.Restaurants
-                         where rest.Price == filtersData.Price && rest.Specialization == filtersData.Specialization
-                             && rest.IsWifi == filtersData.IsWIfi && rest.AreSittingPlaces == filtersData.AreSittingPlaces
+                         where rest.Price == hawkaFilters.Price && rest.Specialization == hawkaFilters.Specialization
+                             && rest.IsWifi == hawkaFilters.IsWIfi && rest.AreSittingPlaces == hawkaFilters.AreSittingPlaces
                          orderby rest.Name
                          select new RestaurantModel
                          {
                              Name = rest.Name,
-                             Image = rest.Image
+                             Image = rest.Image,
+                             Address = rest.Address
                          }
                          ).ToList();
-
             }
             return View("RestaurantResults", model);
         }
@@ -73,13 +69,13 @@ namespace HawksStartApp.Controllers
 
                 var restaurantRepo = new RestaurantRepository(db);
                 restaurantRepo.Clear();
-                restaurantRepo.Create(new Restaurant { Id = 1, Name = "PizzaHOUSE", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways"});
+                restaurantRepo.Create(new Restaurant { Id = 1, Name = "PizzaHOUSE", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 2, Name = "Chellentano", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "pizzeria" });
                 restaurantRepo.Create(new Restaurant { Id = 3, Name = "Cisar", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 4, Name = "La Creperie", AreSittingPlaces = false, IsWifi = true, Price = "middle", Specialization = "pancakes" });
                 restaurantRepo.Create(new Restaurant { Id = 5, Name = "FriHouse", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "fastfood" });
                 restaurantRepo.Create(new Restaurant { Id = 7, Name = "UrbanCofee", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "coffee" });
-                restaurantRepo.Create(new Restaurant { Id = 6, Name = "KebabChef", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "kebab",Image = "~/Content/MyImages/KebabChef.jpg" }); 
+                restaurantRepo.Create(new Restaurant { Id = 6, Name = "KebabChef", AreSittingPlaces = true, IsWifi = true, Price = "middle", Specialization = "kebab", Address = "https://www.google.com.ua/maps/dir/Львівська+політехніка,+улица+Степана+Бандеры,+Львов,+Львовская+область/Кебаб+Шеф%2F+Kebab+Chef,+улица+Степана+Бандеры,+Львов,+Львовская+область/@49.8343411,24.0134986,17.96z/data=!4m14!4m13!1m5!1m1!1s0x473add7a31f0dccd:0x9869cc7025bc8e3f!2m2!1d24.0143929!2d49.83546!1m5!1m1!1s0x473add7bc808ad95:0x12ea53760e0f3c5e!2m2!1d24.0148804!2d49.83447!3e3?hl=ru", Image = "~/Content/MyImages/KebabChef.jpg" });
                 restaurantRepo.Create(new Restaurant { Id = 8, Name = "Univer", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "coffee" });
                 restaurantRepo.Create(new Restaurant { Id = 9, Name = "Kormushka", AreSittingPlaces = true, IsWifi = false, Price = "low", Specialization = "differentways" });
                 restaurantRepo.Create(new Restaurant { Id = 10, Name = "Fornetti", AreSittingPlaces = false, IsWifi = false, Price = "low", Specialization = "bakery" });

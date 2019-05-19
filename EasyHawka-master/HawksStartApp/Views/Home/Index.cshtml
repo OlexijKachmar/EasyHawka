@@ -1,19 +1,24 @@
 ﻿@{
     ViewBag.Title = "Home";
 }
-
-<head>
-    <title>Easy Hawka</title>
-</head>
-<body>
-    <div>
-        <h3>"Home page" </h3>
-        <h1><b>You are Ґєй</b></h1>
-        <div>
-            <h3> Fancy home page wil be here soon! </h3>
+<body style="background-image:url(../../background.jpg)">
+    
+        <h1 align="center" style="color:black"><b>Easy HAWKA</b></h1>
+        <div>            
+                <h3 align="center">
+                    <samp>
+                        Маєте проблеми, щодо вибору закладу, де можна перекусити під час перерви?
+                        Тоді <strong><em>EasyHawka</em></strong> допоможе вам!Ми зібрали всі заклади 
+                        харчування навколо Національного університету "Львівська політехніка", де втомлені 
+                        студенти могли б трішки перепочити та далі йти на пари гризти граніт науки.
+                        Не випробовуй долю, використовуй <strong><em>EasyHawka</em></strong>.Тільки для 
+                        студентів Національного університету "Львівська політехніка", але ми будемо розвиватися…
+                    </samp>
+                </h3>                    
+                <h3 align="center"><samp>Що ж, розпочнемо пошуки ідеального місця саме для вас!!!
+                    Для початку роботи натисніть на посилання нижче.</samp></h3>
+                <h3 align="center">
+                    @Html.ActionLink("Підібрати заклади харчування", "FillFiltres", "Home", new{@class=""})
+                </h3>   
         </div>
-        <div>
-            @Html.ActionLink("Підібрати заклади харчування", "ShowDummyFiltersResult", "Home", new { @class = "" })
-        </div>
-    </div>
 </body>

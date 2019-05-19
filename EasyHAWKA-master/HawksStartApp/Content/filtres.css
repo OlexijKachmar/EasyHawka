@@ -1,0 +1,30 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+input {
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+.send{
+  background: linear-gradient(#ADFF2F, #293f50);
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  float: center;
+  padding: 8px 16px;
+}
+H2 {
+  color:#202020;
+ text-shadow: 1px 1px 0px #999, 
+ 2px 2px 0px #999,
+ 3px 3px 0px #999,
+ 4px 4px 0px #999,
+ 5px 5px 0px #999; 
+  }
+input{
+    ali
+}
